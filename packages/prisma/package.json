@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@calcom/lib": "*",
-    "@prisma/client": "3.10.0"
+    "@prisma/client": "3.11.1"
   },
   "main": "index.ts",
   "types": "index.d.ts",
